@@ -1,0 +1,25 @@
+<svg width="992" height="588" viewBox="0 0 992 588" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1.5" y="19.5" width="640" height="567" stroke="white" stroke-width="3"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="814" y="0" width="159" height="159">
+<circle cx="893.5" cy="79.5" r="79.5" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<line x1="820.5" y1="-163" x2="820.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="890.5" y1="-163" x2="890.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="860.5" y1="-163" x2="860.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="880.5" y1="-163" x2="880.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="870.5" y1="-163" x2="870.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="840.5" y1="-163" x2="840.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="850.5" y1="-163" x2="850.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="830.5" y1="-163" x2="830.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="900.5" y1="-163" x2="900.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="910.5" y1="-163" x2="910.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="950.5" y1="-163" x2="950.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="970.5" y1="-163" x2="970.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="960.5" y1="-163" x2="960.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="930.5" y1="-163" x2="930.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="940.5" y1="-163" x2="940.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+<line x1="920.5" y1="-163" x2="920.5" y2="449" stroke="#5EB9B2" stroke-width="3"/>
+</g>
+<path d="M908.86 303.698L974.834 317.777L929.654 367.873L908.86 303.698Z" stroke="white" stroke-opacity="0.82" stroke-width="4"/>
+</svg>

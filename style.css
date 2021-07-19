@@ -1,0 +1,272 @@
+@font-face {
+    font-family: "Calibre";
+    src: url('1/Calibre-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Calibre-reg";
+    src: url('1/Calibre-Regular.ttf') format('truetype');
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background-color: #2C2C2C;
+}
+::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background-color: #5EB9B2;
+}
+::-webkit-scrollbar-thumb:hover{
+    background-color: #356965;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.body{
+    height: 2440px;
+}
+
+.nav-container{
+/* Black1 */
+background: #2C2C2C;
+height: 72px;
+
+
+}
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 72px;
+}
+nav ul{
+    display: flex;
+}
+
+nav .logo{
+    /* NAUFAL HAKIM */
+font-family: 'Cantarell', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 23px;
+/* identical to box height */
+
+/* Tosca */
+
+color: #5EB9B2;
+}
+
+.nav-items li {
+    list-style: none;
+    margin-right: 35px;
+}
+
+.nav-items li a{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'Kanit', sans-serif;
+    text-decoration: none;
+}
+
+/* Header */
+
+.header-container{
+    background: #2C2C2C ;
+    height: 1800px;
+    position: relative;
+
+}
+
+.about-image{
+    position: absolute;
+    right: 160px;
+    z-index: 1;
+    top: 60px;
+}
+.nh{
+    width: 400px;
+    height: 400px;
+}
+.about-content{
+    position: absolute;
+    z-index: 2;
+    height: 500px;
+    width: 700px;
+}
+.judul{
+    position: relative;
+    left: 345px;
+    top: 110px;
+}
+.isiAbout{
+    position: relative;
+    left: 260px;
+    top: 130px;
+}
+.sosial-icon{
+    position: absolute;
+    left: 180px;
+    top: 110px;
+    align-items: center;
+    display: flex;
+}
+.sosial-icon a{
+    margin: 0 10px;
+}
+.wht{
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+    letter-spacing: 0.055em;
+
+    color: #FFFFFF;
+}
+.tosca{
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+    letter-spacing: 0.055em;
+
+    color: #5EB9B2;
+}
+
+header p{
+    font-family: "Calibre";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.055em;
+    width: 350px;
+
+    color: #FFFFFF;
+}
+.mail{
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+    top: 100px;
+    background: #5EB9B2;
+    position: absolute;
+    padding: 14px 48px;
+    border-radius: 5px;
+} 
+.bg-img{
+    position: absolute;
+    width: 643px;
+    height: 500px;
+    /* White */
+    border: 3px solid #FFFFFF;
+    box-sizing: border-box;
+    top: -52px;
+    left: -450px;
+    z-index: -999999;
+}
+
+.bg-ktk{
+    position: absolute;
+    width: 131px;
+    height: 131px;
+    border: 5px solid rgba(94, 185, 178, 0.6);
+    box-sizing: border-box;
+    transform: rotate(34deg);
+    left: 330px;
+    top: 310px;
+}
+.main-bg{
+    position: absolute;
+    right: 50px;
+    top: 0px;
+    height: 300px;
+    width: 200px;
+
+}
+#bg-stg{
+    left: 90px;
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 170px;
+    z-index: 909090;
+}
+
+#bg-ling{
+    width: 130px;
+    height: 130px;
+    top: 0px;
+    left: 20px;
+    position: absolute;
+    z-index: 1;
+}
+
+.jdl-project{
+    position: absolute;
+    top: 700px;
+    width: 1200px;
+
+}
+#jdl{
+    text-align: center;
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 69px;
+    letter-spacing: 0.055em;
+
+    color: #FFFFFF;
+}
+.isi-project{
+    position: absolute;
+    top: 800px;
+    width: 1200px;
+}
+#porto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact-content{
+    position: relative;
+    top: 1500px;
+    width: 1200px;
+    height: 250px;
+
+}
+
+.isi-content{
+    font-family: "Calibre-reg";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 29px;
+    /* identical to box height */
+    letter-spacing: 0.055em;
+    color: #FFFFFF;
+    text-align: center;
+}
+.sosial-icon2{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    left: 385px;
+    top: 170px;
+}
+.sosial-icon2 a{
+    margin: 0 60px;
+}
+
